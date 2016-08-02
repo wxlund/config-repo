@@ -1,0 +1,3 @@
+# grails_cloud_config-development.yml
+app:
+    message: Running in development mode

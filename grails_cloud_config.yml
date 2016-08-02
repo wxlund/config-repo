@@ -1,0 +1,3 @@
+# grails_cloud_config.yml
+app:
+    message: Default message
